@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1280px;
+    width: 100%;
+}
+
+.formulário {
+    padding: 12px;
+    margin: 10px;
+    width: 385px
+}
